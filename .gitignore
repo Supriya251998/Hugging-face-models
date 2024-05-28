@@ -1,6 +1,6 @@
 .DS_Store
 # Ignore venv (Python virtual environment) directory
-.venv/
+.venv
 
 # Ignore Jupyter Notebook checkpoints. 
 .ipynb_checkpoints/
