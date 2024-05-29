@@ -1,0 +1,4 @@
+dotenv==1.0.1
+transformers==4.41.1
+tensorflow==2.16.1
+lanchain==0.2.1
